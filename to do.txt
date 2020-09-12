@@ -1,0 +1,9 @@
+// need to fix
+grid need to move with player
+fix the Radar
+fix mouse information when scroll the page
+
+// to do
+player icon on Radar
+zoom and dezom camera
+zoom and dezoom on Radar

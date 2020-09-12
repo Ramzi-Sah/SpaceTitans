@@ -1,0 +1,41 @@
+body{
+	font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align:center;
+	margin: 0px;
+}
+
+div#ActionBar{
+	text-align:center;
+	background: #0077c0;
+	padding:20px;
+}
+nav#LeftBar{
+	float:Right;
+	padding:20px;
+	width:50px;
+	max-width:50px;
+	text-align:center;
+	
+	background:#000;
+	color:#fff;
+}
+div#GameLayout{
+
+}
+
+div#Footer{
+	margin-top:50px;
+	text-align:center;
+	background: #0077c0;
+	padding:20px;
+	color:#fff;
+}
+
+#ctx{
+	background: #fff url(img/bg.png) repeat center;
+	/*background-color:#000000;*/
+	border:1px solid #000000;
+	cursor:cell;
+	box-shadow:8px 8px 8px 0 rgba(0,0,0,0.4), 0 0 0 1px rgba(0,0,0,0.3);
+	margin-top:10px;
+}

@@ -1,0 +1,11 @@
+body{
+	font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align:center;
+	background: #ae2856;
+	margin: 0px;
+}
+.ActionBar{
+	text-align:center;
+	background: #0077c0;
+	padding:20px;
+}
