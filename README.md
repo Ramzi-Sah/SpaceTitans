@@ -10,6 +10,6 @@ put the source code inside the main folder of the web server,
 and visit http://localhost/SpaceTitans
 
 ### for newbies
-just download and install xampp (serch it on google),
+just download and install xampp (search for it on google),
 put the SpaceTitans folder inside your C:\xampp\htdocs folder,
 and visit http://localhost/SpaceTitans
